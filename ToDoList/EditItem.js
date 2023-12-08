@@ -11,6 +11,7 @@ const EditItem = ({Cancel, initialValue,EditItemIndex}) => {
       backgroundColor: 'white',
       padding: 20,
       borderRadius: 10,
+      width:'80%',
     },
     modalText: {
       fontSize: 18,
